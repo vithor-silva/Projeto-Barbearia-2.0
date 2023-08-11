@@ -1,0 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.s-text h2 {
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+
+#descricao p {
+    color: rgb(16, 255, 215);
+    margin-right: 20px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 650px;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#img-top-page {
+    width: 30%;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 35px;
+}
